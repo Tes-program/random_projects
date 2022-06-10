@@ -1,2 +1,2 @@
-# random_projects
-Just random web projects
+# Random Projects
+Just a repository for random projects i built. Mostly CSS,Javascript and HTML.
